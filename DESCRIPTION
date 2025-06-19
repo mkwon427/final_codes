@@ -1,0 +1,10 @@
+Package: final_codes
+Type: Package
+Title: Useful Final Codes for Regression and Testing
+Version: 0.1.0
+Author: Your Name
+Maintainer: Your Name <your@email.com>
+Description: My collection of useful functions for statistical analysis and regression modeling in R.
+License: MIT
+Encoding: UTF-8
+LazyData: true
